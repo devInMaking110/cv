@@ -1,0 +1,17 @@
+body {
+  background-color: #EFFFFD;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  border-color: #85F4FF;
+}
+img {
+  height: 180px;
+}
+h1, h3 {
+  color: #42C2FF;
+  font-family: magneto;
+}
